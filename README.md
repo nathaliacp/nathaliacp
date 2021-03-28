@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nathaliacp
 - 👀 I’m interested in develop my programming skills and learn even more
-- 🌱 I’m currently learning CSS
+- 🌱 I’m currently learning frameworks
 - 💻 I'm an IT Management student
 - 📫 Here's my email : nathaliapinheiro3@outlook.com
 
