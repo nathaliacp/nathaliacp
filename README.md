@@ -2,7 +2,7 @@
 
  
 
-## Me chamo Nathalia:blue_heart:!
+## Me chamo Nathalia!
 
  
 
@@ -23,7 +23,7 @@
 
 
 
-- Obrigadx por visitar.
+- Obrigadx por visitar:blue_heart:.
 
 
 
