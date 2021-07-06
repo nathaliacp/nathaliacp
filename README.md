@@ -26,3 +26,5 @@
 - Thanks for visiting.
 
 - Enjoy it!! o/
+
+[![nathaliacp GitHub stats](https://github-readme-stats.vercel.app/api?username=nathaliacp)](https://github.com/nathaliacp/github-readme-stats)
