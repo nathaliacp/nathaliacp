@@ -1,12 +1,12 @@
-# Olá!
+# Olá :wave: !
 
  
 
-## Me chamo Nathalia!
+## Me chamo Nathalia:blue_heart:!
 
  
 
-:computer: Estudante de Gestão de TI e Desenvolvimento Web!
+:computer: Estudante de Gestão de TI e Desenvolvimento Web.
 
 :house_with_garden: Moro em São Paulo/SP.
 
