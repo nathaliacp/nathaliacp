@@ -27,4 +27,4 @@
 
 - Enjoy it!! o/
 
-[![nathaliacp GitHub stats](https://github-readme-stats.vercel.app/api?username=nathaliacp&show_icons=true&theme=radical?username=nathaliacp)](https://github.com/nathaliacp/github-readme-stats)
+[![nathaliacp GitHub stats](https://github-readme-stats.vercel.app/api?username=nathaliacp&show_icons=true&theme=radical)](https://github.com/nathaliacp/github-readme-stats)
