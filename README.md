@@ -1,18 +1,18 @@
-# Welcome!
+# Olá!
 
  
 
-## I'm (SEU NOME)!
+## Me chamo Nathalia!
 
  
 
-:computer: I'm Front-End Developer!
+:computer: Estudante de Gestão de TI e Desenvolvimento Web!
 
-:house_with_garden: I’m from Brazil.
+:house_with_garden: Moro em São Paulo/SP.
 
-:books: I’m currently learning everything.
+:books: Estou aprendendo HTML, CSS, Bootstrap e Javascript.
 
-:outbox_tray: 2021 Goals: create a new project and find a new job.
+
 
  
 
