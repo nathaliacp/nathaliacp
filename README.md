@@ -1,10 +1,25 @@
-- 👋 Hi, I’m @nathaliacp
-- 👀 I’m interested in develop my programming skills and learn even more
-- 🌱 I’m currently learning frameworks
-- 💻 I'm an IT Management student
-- 📫 Here's my email : nathaliapinheiro3@outlook.com
+name: Generate Datas
 
-<!---
-nathaliacp/nathaliacp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+on:
+  schedule: # execute every 12 hours
+    - cron: "* */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    name: Jobs to update datas
+    runs-on: windows-latest
+    steps:
+      # Snake Animation
+      - uses: github.com/nathaliacp
+        id: snake-gif
+        with:
+          github_user_name: nathaliacp
+          svg_out_path: dist/github-contribution-grid-snake.svg
+
+      - uses: crazy-max/ghaction-github-pages@v2.1.3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
