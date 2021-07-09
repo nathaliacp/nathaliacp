@@ -27,7 +27,7 @@
 
 
 
-[![nathaliacp GitHub stats](https://github-readme-stats.vercel.app/api?username=nathaliacp&show_icons=true&theme=radical)](https://github.com/nathaliacp/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nathaliacp&theme=dracula)](https://github.com/nathaliacp/github-readme-stats) 
+[![nathaliacp GitHub stats](https://github-readme-stats.vercel.app/api?username=nathaliacp&show_icons=true&theme=dracula)](https://github.com/nathaliacp/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nathaliacp&theme=dracula)](https://github.com/nathaliacp/github-readme-stats) 
 
 
 ![Snake animation](https://github.com/nathaliacp/nathaliacp/blob/output/github-contribution-grid-snake.svg)
