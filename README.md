@@ -10,7 +10,7 @@
 
 :house_with_garden: Moro em São Paulo/SP.
 
-:books: Estou aprendendo HTML, CSS, Bootstrap e Javascript.
+:books: Estou aprendendo HTML, CSS e Javascript.
 
 
 
