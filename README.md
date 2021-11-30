@@ -6,11 +6,11 @@
 
  
 
-:computer: Estudante de Gestão de TI e Desenvolvimento Web.
+:computer: Estudante de Desenvolvimento Front-End.
 
 :house_with_garden: Moro em São Paulo/SP.
 
-:books: Estou aprendendo HTML, CSS e Javascript.
+:kenieacademy:
 
 
 
