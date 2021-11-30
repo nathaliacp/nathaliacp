@@ -10,7 +10,7 @@
 
 :house_with_garden: Moro em São Paulo/SP.
 
-:kenieacademy:
+
 
 
 
