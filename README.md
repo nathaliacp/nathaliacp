@@ -1,4 +1,4 @@
-# Olá, eu sou a Nathalia 🙋‍♀️: !
+# Olá, eu sou a Nathalia 🙋‍♀️ !
 
 
 :computer: Desenvolvedora Front-End.
