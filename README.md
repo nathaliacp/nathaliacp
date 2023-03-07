@@ -18,7 +18,7 @@
 
 
 
-- Obrigadx por visitar:blue_heart:.
+- Obrigado por visitar:blue_heart:.
 
 
 
