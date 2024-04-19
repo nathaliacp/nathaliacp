@@ -1,9 +1,9 @@
 # Hi, I'm Nathalia 🙋‍♀️ !
 
 
-:computer: Front-End Developer.
+:computer: Software Developer.
 
-:house_with_garden: I live in São Paulo/SP.
+:house_with_garden: São Paulo/SP.
 
 
 
